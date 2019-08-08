@@ -1,0 +1,401 @@
+text,intent,entities/0/end,entities/0/entity,entities/0/start,entities/0/value
+hello restaurants near Atlanta thanks,findRestaurantsByCity,30,city,23,Atlanta
+restaurants in the area of Singapore,findRestaurantsByCity,36,city,27,Singapore
+where to eat in the area of New York,findRestaurantsByCity,36,city,28,New York
+cafes around San Francisco,findRestaurantsByCity,26,city,13,San Francisco
+food near Singapore city,findRestaurantsByCity,19,city,10,Singapore
+please searching for cafes near San Francisco city thanks,findRestaurantsByCity,45,city,32,San Francisco
+cafes around Atlanta,findRestaurantsByCity,20,city,13,Atlanta
+places to eat near San Francisco,findRestaurantsByCity,32,city,19,San Francisco
+I'm looking for food around Atlanta thanks,findRestaurantsByCity,35,city,28,Atlanta
+restaurants around Atlanta,findRestaurantsByCity,26,city,19,Atlanta
+please Help me find food in the area of San Francisco city thanks,findRestaurantsByCity,53,city,40,San Francisco
+hey there pls Help me find where to eat near Singapore city,findRestaurantsByCity,54,city,45,Singapore
+please searching for restaurants located at Singapore city,findRestaurantsByCity,53,city,44,Singapore
+food near San Francisco,findRestaurantsByCity,23,city,10,San Francisco
+hello please find restaurants in the area of Atlanta thank you,findRestaurantsByCity,52,city,45,Atlanta
+pls searching for places to eat located at Atlanta city thank you,findRestaurantsByCity,50,city,43,Atlanta
+food in the area of Singapore,findRestaurantsByCity,29,city,20,Singapore
+hello Help me find places to eat located at San Francisco thank you,findRestaurantsByCity,57,city,44,San Francisco
+hi please searching for where to eat around Atlanta city,findRestaurantsByCity,51,city,44,Atlanta
+hello pls restaurants around New York,findRestaurantsByCity,37,city,29,New York
+hey there Help me find cafes near Singapore thanks,findRestaurantsByCity,43,city,34,Singapore
+cafes located at Singapore,findRestaurantsByCity,26,city,17,Singapore
+hey searching for restaurants in the area of Singapore,findRestaurantsByCity,54,city,45,Singapore
+hey there pls searching for restaurants located at Singapore city thank you,findRestaurantsByCity,60,city,51,Singapore
+hello pls Help me find where to eat in the area of New York,findRestaurantsByCity,59,city,51,New York
+places to eat located at New York,findRestaurantsByCity,33,city,25,New York
+restaurants around San Francisco,findRestaurantsByCity,32,city,19,San Francisco
+hi find restaurants around New York city thanks,findRestaurantsByCity,35,city,27,New York
+hi please find cafes around Singapore,findRestaurantsByCity,37,city,28,Singapore
+hello Help me find places to eat in the area of San Francisco thank you,findRestaurantsByCity,61,city,48,San Francisco
+plz find food in the area of New York,findRestaurantsByCity,37,city,29,New York
+hi please find cafes located at Atlanta city,findRestaurantsByCity,39,city,32,Atlanta
+hey plz Help me find food near San Francisco thank you,findRestaurantsByCity,44,city,31,San Francisco
+hey there Help me find cafes around San Francisco city thank you,findRestaurantsByCity,49,city,36,San Francisco
+hello plz I'm looking for places to eat in the area of San Francisco thanks,findRestaurantsByCity,68,city,55,San Francisco
+hi Help me find places to eat around Singapore thanks,findRestaurantsByCity,46,city,37,Singapore
+hey there pls I'm looking for food in the area of Atlanta city thanks,findRestaurantsByCity,57,city,50,Atlanta
+hello I'm looking for restaurants located at San Francisco,findRestaurantsByCity,58,city,45,San Francisco
+hey there plz searching for food in the area of New York,findRestaurantsByCity,56,city,48,New York
+food around New York,findRestaurantsByCity,20,city,12,New York
+hello please restaurants near Atlanta city thanks,findRestaurantsByCity,37,city,30,Atlanta
+hey there food around Atlanta thanks,findRestaurantsByCity,29,city,22,Atlanta
+please Help me find restaurants in the area of Singapore city thank you,findRestaurantsByCity,56,city,47,Singapore
+find restaurants located at Atlanta thanks,findRestaurantsByCity,35,city,28,Atlanta
+hello I'm looking for cafes in the area of Atlanta,findRestaurantsByCity,50,city,43,Atlanta
+restaurants located at New York,findRestaurantsByCity,31,city,23,New York
+hello cafes located at San Francisco city,findRestaurantsByCity,36,city,23,San Francisco
+hello please food located at San Francisco city,findRestaurantsByCity,42,city,29,San Francisco
+hey there plz find places to eat in the area of Atlanta thanks,findRestaurantsByCity,55,city,48,Atlanta
+pls Help me find cafes located at Atlanta city thank you,findRestaurantsByCity,41,city,34,Atlanta
+food located at Singapore,findRestaurantsByCity,25,city,16,Singapore
+where to eat around Singapore,findRestaurantsByCity,29,city,20,Singapore
+hey there plz find restaurants around New York city thank you,findRestaurantsByCity,46,city,38,New York
+plz find places to eat around Atlanta thank you,findRestaurantsByCity,37,city,30,Atlanta
+hey there pls find restaurants located at New York thank you,findRestaurantsByCity,50,city,42,New York
+hey please places to eat around San Francisco city thank you,findRestaurantsByCity,45,city,32,San Francisco
+hey there pls searching for where to eat around San Francisco city,findRestaurantsByCity,61,city,48,San Francisco
+places to eat located at Atlanta,findRestaurantsByCity,32,city,25,Atlanta
+plz searching for cafes near Singapore city thank you,findRestaurantsByCity,38,city,29,Singapore
+hello pls I'm looking for places to eat around New York city,findRestaurantsByCity,55,city,47,New York
+hey there please Help me find cafes located at San Francisco,findRestaurantsByCity,60,city,47,San Francisco
+cafes located at San Francisco,findRestaurantsByCity,30,city,17,San Francisco
+pls searching for where to eat located at Singapore thank you,findRestaurantsByCity,51,city,42,Singapore
+hi please food located at San Francisco city,findRestaurantsByCity,39,city,26,San Francisco
+restaurants near Atlanta,findRestaurantsByCity,24,city,17,Atlanta
+hi plz Help me find cafes near New York city thank you,findRestaurantsByCity,39,city,31,New York
+hey there please food in the area of Atlanta,findRestaurantsByCity,44,city,37,Atlanta
+cafes around New York,findRestaurantsByCity,21,city,13,New York
+hey pls cafes near New York thanks,findRestaurantsByCity,27,city,19,New York
+hi plz places to eat in the area of New York thanks,findRestaurantsByCity,44,city,36,New York
+hello please I'm looking for cafes around New York,findRestaurantsByCity,50,city,42,New York
+hey plz places to eat around Atlanta thanks,findRestaurantsByCity,36,city,29,Atlanta
+hello plz Help me find places to eat near New York city,findRestaurantsByCity,50,city,42,New York
+hey there plz Help me find where to eat near New York thanks,findRestaurantsByCity,53,city,45,New York
+hello pls where to eat located at New York city thanks,findRestaurantsByCity,42,city,34,New York
+cafes near San Francisco,findRestaurantsByCity,24,city,11,San Francisco
+hello please I'm looking for cafes near New York thanks,findRestaurantsByCity,48,city,40,New York
+hi plz restaurants near Singapore city,findRestaurantsByCity,33,city,24,Singapore
+hey there plz places to eat around Singapore city thanks,findRestaurantsByCity,44,city,35,Singapore
+hey there please Help me find cafes near San Francisco thanks,findRestaurantsByCity,54,city,41,San Francisco
+hello Help me find cafes around Singapore city,findRestaurantsByCity,41,city,32,Singapore
+hi pls I'm looking for places to eat near Singapore thank you,findRestaurantsByCity,51,city,42,Singapore
+hey there pls places to eat located at San Francisco city thanks,findRestaurantsByCity,52,city,39,San Francisco
+food in the area of San Francisco,findRestaurantsByCity,33,city,20,San Francisco
+pls Help me find restaurants in the area of Singapore city thanks,findRestaurantsByCity,53,city,44,Singapore
+hey plz Help me find restaurants near New York city thank you,findRestaurantsByCity,46,city,38,New York
+restaurants located at Atlanta,findRestaurantsByCity,30,city,23,Atlanta
+hey plz searching for where to eat near San Francisco city thanks,findRestaurantsByCity,53,city,40,San Francisco
+hey please find cafes around Singapore,findRestaurantsByCity,38,city,29,Singapore
+please Help me find restaurants in the area of Atlanta thank you,findRestaurantsByCity,54,city,47,Atlanta
+hello please I'm looking for food located at New York thank you,findRestaurantsByCity,53,city,45,New York
+hi plz I'm looking for restaurants in the area of Singapore,findRestaurantsByCity,59,city,50,Singapore
+searching for cafes located at New York thank you,findRestaurantsByCity,39,city,31,New York
+hello plz searching for places to eat around Atlanta thank you,findRestaurantsByCity,52,city,45,Atlanta
+hey there Help me find where to eat in the area of Atlanta city,findRestaurantsByCity,58,city,51,Atlanta
+hey please Help me find where to eat near Singapore city thank you,findRestaurantsByCity,51,city,42,Singapore
+hey please I'm looking for where to eat around Atlanta thanks,findRestaurantsByCity,54,city,47,Atlanta
+hello find food in the area of Singapore thank you,findRestaurantsByCity,40,city,31,Singapore
+hey there pls find places to eat in the area of Singapore city thanks,findRestaurantsByCity,57,city,48,Singapore
+hey there pls food in the area of San Francisco thank you,findRestaurantsByCity,47,city,34,San Francisco
+hello good afternoon Are you there?,greet,,,,
+hi Morning,greet,,,,
+Morning Whats up,greet,,,,
+hi,greet,,,,
+hello whatsup,greet,,,,
+good afternoon Are you there?,greet,,,,
+hey there greetings,greet,,,,
+hello Morning,greet,,,,
+hi whatsup,greet,,,,
+Morning,greet,,,,
+hello are you around?,greet,,,,
+hey there good afternoon,greet,,,,
+hey there how are you,greet,,,,
+hey Good morning! sup!,greet,,,,
+good afternoon how are you doing,greet,,,,
+hi Morning Are you there?,greet,,,,
+hey there are you around,greet,,,,
+greetings are you around?,greet,,,,
+hey there How is it going?,greet,,,,
+hi good afternoon Whats up,greet,,,,
+hi greetings are you around?,greet,,,,
+good day how are things going,greet,,,,
+good night how are you,greet,,,,
+hi good night how are things going,greet,,,,
+hi greetings whatsup,greet,,,,
+hi Good morning! whatsup,greet,,,,
+Morning Are you there?,greet,,,,
+hello greetings,greet,,,,
+Good morning! are you around,greet,,,,
+hello good night,greet,,,,
+good night are you around?,greet,,,,
+hello Morning are you around?,greet,,,,
+Good morning!,greet,,,,
+hello greetings Whats up,greet,,,,
+hey there Good morning!,greet,,,,
+hey there good night How is it going?,greet,,,,
+good day Are you there?,greet,,,,
+hey there how are you doing,greet,,,,
+hey there Are you there?,greet,,,,
+good day are you around?,greet,,,,
+hi are you around?,greet,,,,
+hey there Morning Whats up,greet,,,,
+hello How is it going?,greet,,,,
+hello how are you doing,greet,,,,
+hi greetings sup!,greet,,,,
+Morning are you around,greet,,,,
+hello greetings sup!,greet,,,,
+hey sup!,greet,,,,
+hi how are things going,greet,,,,
+Morning how are things going,greet,,,,
+heading out adios,bye,,,,
+gtg!,bye,,,,
+have to go bye,bye,,,,
+ttyl,bye,,,,
+thank you ttyl,bye,,,,
+talk to you later adieu,bye,,,,
+talk to you later adios,bye,,,,
+bye,bye,,,,
+going out goodbye!,bye,,,,
+going out,bye,,,,
+thank you adieu,bye,,,,
+goodbye! thank you,bye,,,,
+got to go,bye,,,,
+bye thanks,bye,,,,
+chau thank you,bye,,,,
+talk to you soon bye,bye,,,,
+have to go adieu,bye,,,,
+going out adieu,bye,,,,
+farewell thanks,bye,,,,
+thanks adieu,bye,,,,
+adieu thanks,bye,,,,
+leaving farewell,bye,,,,
+leaving chao,bye,,,,
+heading out bye,bye,,,,
+have to go gtg!,bye,,,,
+thanks chau,bye,,,,
+thanks farewell,bye,,,,
+talk to you later chao,bye,,,,
+heading out gtg!,bye,,,,
+talk to you later goodbye!,bye,,,,
+thank you goodbye!,bye,,,,
+going out ttyl,bye,,,,
+talk to you soon farewell,bye,,,,
+got to go adieu,bye,,,,
+got to go adios,bye,,,,
+have to go chau,bye,,,,
+talk to you soon gtg!,bye,,,,
+have to go farewell,bye,,,,
+leaving adios,bye,,,,
+heading out ttyl,bye,,,,
+thanks ttyl,bye,,,,
+thanks chao,bye,,,,
+im leaving now chao,bye,,,,
+chao thank you,bye,,,,
+got to go chau,bye,,,,
+im leaving now adios,bye,,,,
+got to go gtg!,bye,,,,
+bye thank you,bye,,,,
+talk to you soon chao,bye,,,,
+ttyl thank you,bye,,,,
+sounds good sounds good thank you,affirmative,,,,
+yes sir correct,affirmative,,,,
+yes sir right thanks,affirmative,,,,
+yep you understood me im ok with that,affirmative,,,,
+im ok with that,affirmative,,,,
+right that is fine affirmative,affirmative,,,,
+yep yes sir thank you,affirmative,,,,
+affirmative,affirmative,,,,
+right Yes thank you,affirmative,,,,
+affirmative sounds good thanks,affirmative,,,,
+im ok with that that is fine right,affirmative,,,,
+correct plz,affirmative,,,,
+correct that is right im ok with that,affirmative,,,,
+yes sir that is what i want affirmative,affirmative,,,,
+yes sir you understood me yes sir,affirmative,,,,
+right i want that right,affirmative,,,,
+affirmative good im ok with that,affirmative,,,,
+yep pls,affirmative,,,,
+Yes,affirmative,,,,
+sounds good you understood me yep,affirmative,,,,
+yes sir,affirmative,,,,
+yes sir sounds good thank you,affirmative,,,,
+right im ok with that thanks,affirmative,,,,
+sounds good its fine right,affirmative,,,,
+yep its fine Agreed,affirmative,,,,
+yep that is fine affirmative,affirmative,,,,
+im ok with that affirmative,affirmative,,,,
+sounds good Agreed,affirmative,,,,
+yes sir right,affirmative,,,,
+affirmative yep,affirmative,,,,
+Agreed yes sir,affirmative,,,,
+correct that is good sounds good,affirmative,,,,
+Yes that is right Yes,affirmative,,,,
+Agreed correct,affirmative,,,,
+Yes please,affirmative,,,,
+sounds good plz,affirmative,,,,
+Agreed im ok with that thank you,affirmative,,,,
+im ok with that that is correct correct,affirmative,,,,
+correct that is correct correct,affirmative,,,,
+Yes right thank you,affirmative,,,,
+right Yes,affirmative,,,,
+correct that is what i want Yes,affirmative,,,,
+right yep,affirmative,,,,
+Yes yes sir,affirmative,,,,
+yes sir that is fine im ok with that,affirmative,,,,
+right pls,affirmative,,,,
+im ok with that pls,affirmative,,,,
+yep im ok with that thank you,affirmative,,,,
+yes sir correct thank you,affirmative,,,,
+Agreed im ok with that,affirmative,,,,
+please that's not right its not correct,negative,,,,
+that's not right plz,negative,,,,
+don't do that didnt meant that,negative,,,,
+i don't want that,negative,,,,
+not really plz that's not what i want,negative,,,,
+nope i don't want that,negative,,,,
+plz not really that's not what i want,negative,,,,
+nope didnt meant that,negative,,,,
+plz incorrect that's wrong,negative,,,,
+no pls i don't want that,negative,,,,
+that's not right please,negative,,,,
+incorrect please dont mean that,negative,,,,
+incorrect it's not good,negative,,,,
+don't do that plz didnt meant that,negative,,,,
+not really its not correct,negative,,,,
+please incorrect that is wrong,negative,,,,
+don't do that pls dont mean that,negative,,,,
+that's not right that's not what i want,negative,,,,
+no pls its not correct,negative,,,,
+incorrect pls didnt meant that,negative,,,,
+not really pls i don't want that,negative,,,,
+no please that is wrong,negative,,,,
+not really that's wrong,negative,,,,
+not really please didnt meant that,negative,,,,
+don't do that please dont mean that,negative,,,,
+plz that's not right its not correct,negative,,,,
+incorrect plz didnt meant that,negative,,,,
+please don't do that its not ok,negative,,,,
+no it's not good,negative,,,,
+nope pls didnt meant that,negative,,,,
+pls nope its not correct,negative,,,,
+plz that's not right dont mean that,negative,,,,
+no please that's not correct,negative,,,,
+it's not good,negative,,,,
+not really its not ok,negative,,,,
+incorrect please that's wrong,negative,,,,
+nope pls that's not correct,negative,,,,
+pls that's not right i don't want that,negative,,,,
+its not correct,negative,,,,
+please incorrect dont mean that,negative,,,,
+that's not right please its not ok,negative,,,,
+incorrect plz it's not good,negative,,,,
+please not really its not correct,negative,,,,
+don't do that pls didnt meant that,negative,,,,
+no please,negative,,,,
+not really plz it's not good,negative,,,,
+pls nope didnt meant that,negative,,,,
+not really plz that's not correct,negative,,,,
+pls no that's wrong,negative,,,,
+please incorrect its not correct,negative,,,,
+plz i'm looking for accommodations around San Francisco thanks,findHotelsByCity,55,city,42,San Francisco
+hey pls show me where to stay in the area of New York city thanks,findHotelsByCity,53,city,45,New York
+hey there search for where to stay near San Francisco city thanks,findHotelsByCity,53,city,40,San Francisco
+hi plz show me hotels near New York city thanks,findHotelsByCity,35,city,27,New York
+hey please find where to stay near Atlanta city,findHotelsByCity,42,city,35,Atlanta
+lodgings in the area of New York,findHotelsByCity,32,city,24,New York
+hi accommodations located at New York,findHotelsByCity,37,city,29,New York
+lodgings around San Francisco,findHotelsByCity,29,city,16,San Francisco
+find where to stay located at New York,findHotelsByCity,38,city,30,New York
+hi search for hotels located at Atlanta city,findHotelsByCity,39,city,32,Atlanta
+pls find hotels around San Francisco thanks,findHotelsByCity,36,city,23,San Francisco
+show me places to stay near San Francisco thank you,findHotelsByCity,41,city,28,San Francisco
+hey there please i'm looking for lodgings near Singapore thank you,findHotelsByCity,56,city,47,Singapore
+i'm looking for where to stay near Atlanta thank you,findHotelsByCity,42,city,35,Atlanta
+hey there please i'm looking for accommodations near New York city thank you,findHotelsByCity,61,city,53,New York
+hey there find accommodations in the area of Singapore city thank you,findHotelsByCity,54,city,45,Singapore
+lodgings near Atlanta,findHotelsByCity,21,city,14,Atlanta
+hello help me find accommodations near Atlanta thank you,findHotelsByCity,46,city,39,Atlanta
+hey pls find lodgings in the area of San Francisco city thank you,findHotelsByCity,50,city,37,San Francisco
+hello search for places to stay near New York city thanks,findHotelsByCity,45,city,37,New York
+hi pls accommodations near San Francisco city,findHotelsByCity,40,city,27,San Francisco
+hello please i'm looking for hotels near San Francisco,findHotelsByCity,54,city,41,San Francisco
+hey i'm looking for lodgings near New York city,findHotelsByCity,42,city,34,New York
+pls find where to stay in the area of Singapore thank you,findHotelsByCity,47,city,38,Singapore
+where to stay around New York,findHotelsByCity,29,city,21,New York
+hi pls show me places to stay near New York city,findHotelsByCity,43,city,35,New York
+hello pls find lodgings in the area of San Francisco city thank you,findHotelsByCity,52,city,39,San Francisco
+please help me find hotels in the area of New York,findHotelsByCity,50,city,42,New York
+hey there pls help me find accommodations located at Atlanta city thank you,findHotelsByCity,60,city,53,Atlanta
+pls show me where to stay near San Francisco city,findHotelsByCity,44,city,31,San Francisco
+hey there plz show me accommodations near New York thanks,findHotelsByCity,50,city,42,New York
+hello plz i'm looking for accommodations located at Atlanta city,findHotelsByCity,59,city,52,Atlanta
+hi plz lodgings located at New York thanks,findHotelsByCity,35,city,27,New York
+where to stay near Atlanta,findHotelsByCity,26,city,19,Atlanta
+hello pls i'm looking for hotels around San Francisco thanks,findHotelsByCity,53,city,40,San Francisco
+hey there pls help me find places to stay in the area of Singapore city thanks,findHotelsByCity,66,city,57,Singapore
+hi please show me places to stay in the area of New York city thank you,findHotelsByCity,56,city,48,New York
+hi pls search for places to stay near Atlanta,findHotelsByCity,45,city,38,Atlanta
+hi pls i'm looking for accommodations near San Francisco,findHotelsByCity,56,city,43,San Francisco
+where to stay around Atlanta,findHotelsByCity,28,city,21,Atlanta
+hey help me find lodgings around San Francisco thanks,findHotelsByCity,46,city,33,San Francisco
+hi lodgings near New York,findHotelsByCity,25,city,17,New York
+hello please search for places to stay near Singapore city thanks,findHotelsByCity,53,city,44,Singapore
+hi plz find places to stay located at Singapore thanks,findHotelsByCity,47,city,38,Singapore
+hello please help me find accommodations near New York thank you,findHotelsByCity,54,city,46,New York
+hi find where to stay located at San Francisco thank you,findHotelsByCity,46,city,33,San Francisco
+hey please where to stay located at Singapore city thanks,findHotelsByCity,45,city,36,Singapore
+hey there pls show me hotels near Atlanta thanks,findHotelsByCity,41,city,34,Atlanta
+lodgings in the area of San Francisco,findHotelsByCity,37,city,24,San Francisco
+hi please search for accommodations in the area of Singapore city thanks,findHotelsByCity,60,city,51,Singapore
+hello help me find lodgings near San Francisco,findHotelsByCity,46,city,33,San Francisco
+hey there plz search for accommodations in the area of San Francisco thanks,findHotelsByCity,68,city,55,San Francisco
+hey there pls show me lodgings near Atlanta city thanks,findHotelsByCity,43,city,36,Atlanta
+hey pls show me lodgings around San Francisco city thanks,findHotelsByCity,45,city,32,San Francisco
+hey please places to stay around Atlanta city thank you,findHotelsByCity,40,city,33,Atlanta
+hello places to stay around New York city thank you,findHotelsByCity,36,city,28,New York
+hi plz hotels in the area of Atlanta city thanks,findHotelsByCity,36,city,29,Atlanta
+hey there please accommodations located at Singapore city,findHotelsByCity,52,city,43,Singapore
+hello show me where to stay in the area of Atlanta thank you,findHotelsByCity,50,city,43,Atlanta
+hey there search for where to stay in the area of New York,findHotelsByCity,58,city,50,New York
+hi find lodgings located at Singapore city thank you,findHotelsByCity,37,city,28,Singapore
+hey plz help me find places to stay around San Francisco city thanks,findHotelsByCity,56,city,43,San Francisco
+hey there pls show me accommodations near New York city thank you,findHotelsByCity,50,city,42,New York
+hey there pls search for lodgings in the area of New York city thanks,findHotelsByCity,57,city,49,New York
+hey there pls help me find places to stay located at Atlanta thank you,findHotelsByCity,60,city,53,Atlanta
+accommodations located at San Francisco,findHotelsByCity,39,city,26,San Francisco
+hey pls show me hotels near Singapore city thank you,findHotelsByCity,37,city,28,Singapore
+accommodations near New York,findHotelsByCity,28,city,20,New York
+hey there please search for hotels near New York city,findHotelsByCity,48,city,40,New York
+pls search for places to stay around New York city thank you,findHotelsByCity,45,city,37,New York
+hi please i'm looking for hotels in the area of Singapore,findHotelsByCity,57,city,48,Singapore
+hi search for where to stay around Atlanta thanks,findHotelsByCity,42,city,35,Atlanta
+please show me lodgings around New York city thank you,findHotelsByCity,39,city,31,New York
+plz help me find places to stay located at Atlanta city,findHotelsByCity,50,city,43,Atlanta
+accommodations around Atlanta,findHotelsByCity,29,city,22,Atlanta
+accommodations around New York thank you,findHotelsByCity,30,city,22,New York
+where to stay located at San Francisco,findHotelsByCity,38,city,25,San Francisco
+hey there pls find places to stay near Atlanta city thanks,findHotelsByCity,46,city,39,Atlanta
+accommodations near San Francisco,findHotelsByCity,33,city,20,San Francisco
+hi plz show me accommodations in the area of Atlanta city,findHotelsByCity,52,city,45,Atlanta
+hey there plz search for where to stay in the area of Singapore thanks,findHotelsByCity,63,city,54,Singapore
+hey there please help me find lodgings near San Francisco city,findHotelsByCity,57,city,44,San Francisco
+hello i'm looking for places to stay near San Francisco thank you,findHotelsByCity,55,city,42,San Francisco
+hello please show me lodgings near San Francisco city thank you,findHotelsByCity,48,city,35,San Francisco
+please i'm looking for lodgings near San Francisco city,findHotelsByCity,50,city,37,San Francisco
+show me where to stay near Singapore,findHotelsByCity,36,city,27,Singapore
+hotels located at Atlanta,findHotelsByCity,25,city,18,Atlanta
+plz i'm looking for lodgings around Atlanta thank you,findHotelsByCity,43,city,36,Atlanta
+hey there please show me lodgings in the area of New York city thanks,findHotelsByCity,57,city,49,New York
+hey there i'm looking for hotels located at Atlanta city thanks,findHotelsByCity,51,city,44,Atlanta
+hey plz hotels located at Singapore city thanks,findHotelsByCity,35,city,26,Singapore
+hotels in the area of San Francisco,findHotelsByCity,35,city,22,San Francisco
+hey please search for where to stay around New York thanks,findHotelsByCity,51,city,43,New York
+hey please find lodgings around Singapore,findHotelsByCity,41,city,32,Singapore
+hey there show me places to stay located at Singapore city thanks,findHotelsByCity,53,city,44,Singapore
+hey search for hotels in the area of Singapore,findHotelsByCity,46,city,37,Singapore
+hello plz show me where to stay near Singapore thanks,findHotelsByCity,46,city,37,Singapore
+lodgings located at Singapore,findHotelsByCity,29,city,20,Singapore
+hey pls i'm looking for hotels in the area of New York city,findHotelsByCity,54,city,46,New York
+hello pls find accommodations around San Francisco,findHotelsByCity,50,city,37,San Francisco
